@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Plan a 5-day cultural trip to Japan from New York for 2 travelers",
+    "expected_fields": ["budget", "itinerary", "hotels_shortlist", "packing_list"]
+  },
+  {
+    "query": "Plan a 4-day budget trip to Lisbon focused on food and neighborhoods",
+    "expected_fields": ["budget", "itinerary"]
+  },
+  {
+    "query": "Plan a 7-day family vacation to London with rainy-day backup activities",
+    "expected_fields": ["budget", "itinerary", "hotels_shortlist"]
+  }
+]
