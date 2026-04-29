@@ -439,19 +439,3 @@ For engineers who want the details:
 
 ---
 
-## 💡 Why This Project Matters
-
-**For Job Applications:**
-
-This demonstrates:
-- ✅ Multi-agent system design
-- ✅ Production-grade evaluation and monitoring
-- ✅ Real-world API integration
-- ✅ Cloud infrastructure (GCP)
-- ✅ Modern frontend (Next.js 15 + Three.js)
-- ✅ MLOps practices (observability, cost tracking)
-
-**Not just "I made a GPT wrapper"—this is:**
-> "I built a distributed AI system with quality gates, self-evaluation, and operational metrics that could scale to production."
-
-That's the difference between a side project and a portfolio piece that gets you hired.
